@@ -73,7 +73,7 @@
 \lhead[\scshape\@author]{\scshape\@title}
 
 %Parámetros de fuentes
-\setmainfont[Ligatures=TeX,Path = fonts/,BoldFont =FiraSans-Medium.otf,ItalicFont = FiraSans-LightItalic.otf, BoldItalicFont  = FiraSans-MediumItalic.otf]{FiraSans-Light.otf}
+\setmainfont[Ligatures=TeX,Path = fennix_plantilla/fonts/,BoldFont =FiraSans-Medium.otf,ItalicFont = FiraSans-LightItalic.otf, BoldItalicFont  = FiraSans-MediumItalic.otf]{FiraSans-Light.otf}
 \newcommand{\subtitle}[1]{%
   \posttitle{%
     \par\end{center}
